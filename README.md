@@ -1,0 +1,1 @@
+This is a learning project I coded as part of 100 Days of Code: The Complete Python Pro Bootcamp. I added enhancements to the program to facilitate continued play by adding a bankroll and a bet to the original program.
